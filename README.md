@@ -1,6 +1,6 @@
 # Deep-Learning-Adventure
 
-It is a starter's deep learning repository.
+It is a starter's deep learning repository. Simple, archived and out of date.
 
 ## Start
 
